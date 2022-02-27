@@ -1,0 +1,46 @@
+deliveries:
+  box-jogador:
+    days: 30
+    slot: 10
+    permission: 'deliveryman.jogador'
+    rewards:
+      - 'MYSTERY_BOX:1'
+    icon-noperm: 'ENDER_CHEST : 0 : 1 : display=&c1 Caixa Misteriosa : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 1x Caixa Misteriosa; ;&7Exclusivo para Jogador.'
+    icon-notime: 'ENDER_CHEST : 0 : 1 : display=&c1 Caixa Misteriosa : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 1x Caixa Misteriosa; ;&7Você poderá coletar novamente em &f10d 20h 40m 23s&7.'
+    icon-claim: 'ENDER_CHEST : 0 : 1 : display=&a1 Caixa Misteriosa : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 1x Caixa Misteriosa; ;&eClique para coletar!'
+  box-alquimista:
+    days: 30
+    slot: 11
+    permission: 'deliveryman.alquimista'
+    rewards:
+      - 'MYSTERY_BOX:3'
+    icon-noperm: 'ENDER_CHEST : 0 : 1 : display=&c3 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 3x Caixas Misteriosas; ;&7Exclusivo para &5Alquimista&7.'
+    icon-notime: 'ENDER_CHEST : 0 : 1 : display=&c3 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 3x Caixas Misteriosas; ;&7Você poderá coletar novamente em &f10d 20h 40m 23s&7.'
+    icon-claim: 'ENDER_CHEST : 0 : 1 : display=&a3 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 3x Caixas Misteriosas; ;&eClique para coletar!'
+  box-feiticeiro:
+    days: 30
+    slot: 12
+    permission: 'deliveryman.feiticeiro'
+    rewards:
+      - 'MYSTERY_BOX:5'
+    icon-noperm: 'ENDER_CHEST : 0 : 1 : display=&c5 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 5x Caixa Misteriosas; ;&7Exclusivo para &aFeiticeiro&7.'
+    icon-notime: 'ENDER_CHEST : 0 : 1 : display=&c5 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 5x Caixa Misteriosas; ;&7Você poderá coletar novamente em &f10d 20h 40m 23s&7.'
+    icon-claim: 'ENDER_CHEST : 0 : 1 : display=&a5 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 5x Caixa Misteriosas; ;&eClique para coletar!'
+  box-guerreiro:
+    days: 30
+    slot: 13
+    permission: 'deliveryman.guerreiro'
+    rewards:
+      - 'MYSTERY_BOX:9'
+    icon-noperm: 'ENDER_CHEST : 0 : 1 : display=&c9 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 9x Caixas Misteriosas; ;&7Exclusivo para &bGuerreiro&7.'
+    icon-notime: 'ENDER_CHEST : 0 : 1 : display=&c9 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 9x Caixas Misteriosas; ;&7Você poderá coletar novamente em &f10d 20h 40m 23s&7.'
+    icon-claim: 'ENDER_CHEST : 0 : 1 : display=&a9 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 9x Caixas Misteriosas; ;&eClique para coletar!'
+  box-youtuber:
+    days: 30
+    slot: 14
+    permission: 'deliveryman.youtuber'
+    rewards:
+      - 'MYSTERY_BOX:13'
+    icon-noperm: 'ENDER_CHEST : 0 : 1 : display=&c13 Caixa sMisteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 13x Caixas Misteriosas; ;&7Exclusivo para &cYouTuber&7.'
+    icon-notime: 'ENDER_CHEST : 0 : 1 : display=&c13 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 13x Caixas Misteriosas; ;&7Você poderá coletar novamente em &f10d 20h 40m 23s&7.'
+    icon-claim: 'ENDER_CHEST : 0 : 1 : display=&a13 Caixas Misteriosas : lore=&7Gratuito para você! Colete mensalmente;&7e desbloqueie itens épicos!; ;&f▪ 13x Caixas Misteriosas; ;&eClique para coletar!'

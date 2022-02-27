@@ -1,0 +1,82 @@
+groups:
+  Master:
+    prefix: '&6[Master] '
+    displayname: '&6Master'
+    color: '&6'
+    team: 'a_master'
+    allowVisible: true
+
+  Gerente:
+    prefix: '&4[Gerente] '
+    displayname: '&4Gerente'
+    color: '&4'
+    team: 'b_gerente'
+    allowVisible: true
+
+  Admin:
+    prefix: '&c[Admin] '
+    displayname: '&cAdmin'
+    color: '&c'
+    team: 'c_admin'
+    allowVisible: true
+
+  Moderador:
+    prefix: '&2[Moderador] '
+    displayname: '&2Moderador'
+    color: '&2'
+    team: 'd_moderador'
+    allowVisible: true
+
+  Ajudante:
+    prefix: '&e[Ajudante] '
+    displayname: '&eAjudante'
+    color: '&e'
+    team: 'e_ajudante'
+    allowVisible: true
+
+  YouTuber:
+    prefix: '&c[YouTuber] '
+    displayname: '&cYouTuber'
+    color: '&c'
+    team: 'f_youtuber'
+    allowVisible: true
+
+  Guerreiro:
+    prefix: '&b[Guerreiro] '
+    displayname: '&bGuerreiro'
+    color: '&b'
+    team: 'g_guerreiro'
+    allowVisible: false
+
+  Feiticeiro:
+    prefix: '&a[Feiticeiro] '
+    displayname: '&aFeiticeiro'
+    color: '&a'
+    team: 'h_feiticeiro'
+    allowVisible: false
+
+  Alquimista:
+    prefix: '&5[Alquimista] '
+    displayname: '&5Alquimista'
+    color: '&5'
+    team: 'i_alquimista'
+    allowVisible: false
+
+  Jogador:
+    prefix: '&7'
+    displayname: '&7Jogador'
+    color: '&7'
+    team: 'j_jogador'
+    allowVisible: false
+
+permissions:
+  Master: []
+  Gerente: []
+  Admin: []
+  Moderador: []
+  Ajudante: []
+  YouTuber: []
+  Guerreiro: []
+  Cavaleiro: []
+  Alquimista: []
+  Jogador: []

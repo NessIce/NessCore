@@ -1,0 +1,5 @@
+name: NessCore
+version: 1.0
+author: NessIce
+
+main: br.com.ness.core.bukkit.CorePlugin

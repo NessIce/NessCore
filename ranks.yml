@@ -1,0 +1,42 @@
+ranks:
+  ferro:
+    name: 'Ferro'
+    cust-up: 400
+    next: 'bronze'
+
+  bronze:
+    name: 'Bronze'
+    cust-up: 800
+    next: 'prata'
+
+  prata:
+    name: 'Prata'
+    cust-up: 1500
+    next: 'ouro'
+
+  ouro:
+    name: 'Ouro'
+    cust-up: 3000
+    next: 'platina'
+
+  platina:
+    name: 'Platina'
+    cust-up: 6000
+    next: 'diamante'
+
+  diamante:
+    name: 'Diamante'
+    cust-up: 8000
+    next: 'imortal'
+
+  imortal:
+    name: 'Imortal'
+    cust-up: 10000
+    next: 'radiante'
+
+  radiante:
+    name: 'Radiante'
+    cust-up: 0
+    next: 'final'
+
+

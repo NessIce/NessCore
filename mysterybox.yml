@@ -1,0 +1,41 @@
+mysterybox:
+  box-1:
+    rarity: 'COMUM'
+    item: 'ENDER_CHEST : 0 : 1 : display=§bCaixa Misteriosa : lore=§e★§f★★★★;;§fAo abrir esta caixa, você tem a chance;§fde ganhar um dos seguintes itens:;;§7▪ §b[Divino] §fTeste 1 §7(Lobby);§7▪ §6[Épico] §fTeste 1 §7(Lobby);§7▪ §d[Raro] §fTeste 1 §7(Lobby); §7▪ §9[Comum] §fTeste 1 §7(Lobby); §7▪ §9[Comum] §fTeste 1 §7(Lobby);§7▪ §9[Comum]  §fTeste 1 §7(Lobby);;§eClique para abrir!'
+    rewards:
+      - ''
+      - ''
+      - ''
+      - ''
+  box-2:
+    rarity: 'UNCOMMUN'
+    item: 'ENDER_CHEST : 0 : 1 : display=§bCaixa Misteriosa : lore=DIVINE'
+    rewards:
+      - ''
+      - ''
+      - ''
+      - ''
+  box-3:
+    rarity: 'RARE'
+    item: 'ENDER_CHEST : 0 : 1 : display=§bCaixa Misteriosa : lore=DIVINE'
+    rewards:
+      - ''
+      - ''
+      - ''
+      - ''
+  box-4:
+    rarity: 'DIVINE'
+    item: 'ENDER_CHEST : 0 : 1 : display=§bCaixa Misteriosa : lore=DIVINE'
+    rewards:
+      - ''
+      - ''
+      - ''
+      - ''
+  box-5:
+    rarity: 'LEGENDARY'
+    item: 'ENDER_CHEST : 0 : 1 : display=§bCaixa Misteriosa : lore=DIVINE'
+    rewards:
+      - ''
+      - ''
+      - ''
+      - ''
